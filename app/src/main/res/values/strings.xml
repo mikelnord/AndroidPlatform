@@ -1,7 +1,16 @@
 <resources>
     <string name="app_name">Project1</string>
-    <string name="textview1">Label1</string>
+    <string name="textview1">User</string>
     <string name="button1">Button1</string>
-    <string name="switch1">Switch1</string>
-    <string name="checkbox">CheckBox</string>
+    <string name="switch1">M</string>
+    <string name="checkbox">Create a user</string>
+    <string name="textviewLogin">Login</string>
+    <string name="textViewUser">User</string>
+    <string name="textViewPass">Password</string>
+    <string name="textviewName">Name</string>
+    <string name="textviewSecondName">SecondName</string>
+    <string name="textViewTel">Telephone</string>
+    <string name="textViewEmail">Email</string>
+    <string name="setting"><![CDATA[Setting>>]]></string>
+    <string name="togglebutton">ToggleButton</string>
 </resources>
