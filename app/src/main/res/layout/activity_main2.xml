@@ -67,7 +67,8 @@
             android:layout_margin="10dp"
             android:ems="10"
             android:inputType="textPersonName"
-            android:textColor="#004D40"  />
+            android:textColor="#004D40"
+            tools:ignore="Autofill,LabelFor" />
 
     </LinearLayout>
 
