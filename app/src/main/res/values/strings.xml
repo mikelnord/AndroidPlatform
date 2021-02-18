@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="textview1">Label1</string>
+    <string name="button1">Button1</string>
+    <string name="switch1">Switch1</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
